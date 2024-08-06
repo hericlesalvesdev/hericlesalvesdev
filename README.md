@@ -4,7 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hericles.alvess09?igsh=b2FkN2Rod2h6djhv)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hericlesdev?_t=8oeC096i1sE&_r=1)
 
-![Hericles GitHub stats](https://github-readme-stats.vercel.app/api?username=hericlesalvesdev&show_icons=true&theme=highcontrast)
+
+![hericlesalvesdev's Stats](https://github-readme-stats.vercel.app/api?username=hericlesalvesdev&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![hericlesalvesdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hericlesalvesdev&theme=highcontrast&hide_border=true)
+![hericlesalvesdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesalvesdev&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ### Tecnologias que estou aprendendo 
 
